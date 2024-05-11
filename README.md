@@ -1,8 +1,8 @@
 ### Hi there, I'm zizondazi👋
 
 
-<h3 align="center">⚡ SKILLS ⚡</h3>
-<p align="center">
+<h3 align="left">⚡ SKILLS ⚡</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
