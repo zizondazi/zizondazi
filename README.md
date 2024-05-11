@@ -29,6 +29,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizondazi&layout=compact)
 
+
+🔗 ***Blog***     |  [zizon-dazi.tistory.com](https://zizon-dazi.tistory.com/)
+
+🔗 ***Email***   |  [daziluv0129@gmail.com](mailto:daziluv0129@gmail.com)
+
 <!--
 **zizondazi/zizondazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
